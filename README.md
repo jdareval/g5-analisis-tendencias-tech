@@ -1,2 +1,6 @@
 ## Bienvenidos al repositorio de Análisis de tendencias tecnológicas
-En este repositorio podras encontrar un ejemplo de como realizar un análisis de tendencias tecnologicas por pais. en el cual tomaremos como ejemplo el pasi de Ecuador.
+En este repositorio podras encontrar un ejemplo de como realizar un análisis de tendencias tecnologicas por pais. en el cual tomaremos como ejemplo el pasi de Ecuador. y utilizaremos Pytrend y Pytorch.
+
+# Estructura del repositorio
+
+## Fase 1
